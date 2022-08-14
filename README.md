@@ -1,6 +1,8 @@
 # flutter_app_test2
 
-A new Flutter project.
+このアプリは下記を参考にしたものです。
+
+https://zenn.dev/omatsu/books/9ff274f3045092067378/viewer/first-flutter05
 
 ## Getting Started
 
